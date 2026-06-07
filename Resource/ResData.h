@@ -852,6 +852,9 @@
 #ifdef __BB_TELEPORTER_WINDOW
 #define APP_TELEPORTER                                                  2023
 #endif // __BB_TELEPORTER_WINDOW
+#ifdef __BB_ARENA_3V3
+#define APP_ARENA_3V3                                                   2024
+#endif // __BB_ARENA_3V3
 
 // Control Id
 #define WIDC_STATIC_2ND_PASSWORD_CONFIRM86600000000000000
